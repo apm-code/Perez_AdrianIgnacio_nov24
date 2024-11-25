@@ -6,3 +6,4 @@ Repositorio de la parte práctica del examen del primer trimestre
 4. Creación de .gitignore y top_secret
 5. Creación de una rama secundaria (PerezAdrian)
 6. Modificación del archivo README.md
+7. Realización de tres commits (inicial, actualización README 1 y 2)
